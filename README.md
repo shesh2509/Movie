@@ -1,26 +1,35 @@
+# Movie Library
 
-Live link: https://movie-library-theta.vercel.app/
+Live Link: [Movie Library](https://movie-library-theta.vercel.app/)
 
-🛠️ Local development
-That's pretty easy. To ensure that you are able to install everything properly, we would recommend you to have Git, NPM and Node.js installed.
+## 🛠️ Local Development
 
-We will first start with setting up the Local Project Environment:
+Setting up the local development environment is straightforward. Ensure you have Git, NPM, and Node.js installed.
 
-Clone the project using: https://github.com/shesh2509/Movie.git
+### Setting Up the Local Project Environment
 
-Now we will add the environment variables in the client/ and server/
+1. **Clone the project:**
 
-Create a .env file in both client and server folder
+   ```bash
+   git clone https://github.com/shesh2509/Movie.git
+   ```
 
-To Run the Backend and Frontend follow these steps:
+2. **Add Environment Variables:**
 
-For backend:
-cd server
-npm install (To install all the dependencies)
-npm start
+   Create a `.env` file in both the `client` and `server` directories.
 
-For frontend:
-cd client
-npm install
-npm start
+3. **Running the Backend and Frontend:**
 
+   **Backend:**
+   ```bash
+   cd server
+   npm install  # To install all the dependencies
+   npm start
+   ```
+
+   **Frontend:**
+   ```bash
+   cd client
+   npm install
+   npm start
+   ```
