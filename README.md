@@ -3,7 +3,7 @@ That's pretty easy. To ensure that you are able to install everything properly, 
 
 We will first start with setting up the Local Project Environment:
 
-Clone the project using 
+Clone the project using: https://github.com/shesh2509/Movie.git
 
 Now we will add the environment variables in the client/ and server/
 
