@@ -12,7 +12,7 @@ const Container = styled.div`
 
 const Container1 = styled.div`
     width: 100vw;
-    height: 100vh;
+    height: 90vh;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -117,7 +117,7 @@ export default function Home(){
     }
 
     try {
-        const res = await axios.get(`http://www.omdbapi.com/?apikey=${apiKey}&s=${search}`);
+        const res = await axios.get(`https://www.omdbapi.com/?apikey=${apiKey}&s=${search}`);
         console.log(res.data.Search);
         setMovies(res.data.Search || []);
     } catch (err) {
