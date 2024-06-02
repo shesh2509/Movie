@@ -34,7 +34,8 @@ Setting up the local development environment is straightforward. Ensure you have
    npm start
    ```
 
-### screenshots of the Project
+### Screenshots of the Project
 
+**Login Page:**
 ![Login Page](https://github.com/shesh2509/Movie/blob/main/client/public/Image/LoginPage.png?raw=true)
 
