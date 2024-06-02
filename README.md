@@ -39,3 +39,31 @@ Setting up the local development environment is straightforward. Ensure you have
 **Login Page:**
 ![Login Page](https://github.com/shesh2509/Movie/blob/main/client/public/Image/LoginPage.png?raw=true)
 
+
+**SingUp Page:**
+![SingUp Page](https://github.com/shesh2509/Movie/blob/main/client/public/Image/SignUp%20Page.png?raw=true)
+
+
+**Home Page:**
+![Home Page](https://github.com/shesh2509/Movie/blob/main/client/public/Image/HomePage.png?raw=true)
+
+
+**Result of Serach:**
+![Search Result](https://github.com/shesh2509/Movie/blob/main/client/public/Image/SearchedResult.png?raw=true)
+
+
+**Movie Details:**
+![Movie Details](https://github.com/shesh2509/Movie/blob/main/client/public/Image/MovieDetail.png?raw=true)
+
+
+**Add to List:**
+![Add to List](https://github.com/shesh2509/Movie/blob/main/client/public/Image/AddtoList.png?raw=true)
+
+**All Lists:**
+![All List](https://github.com/shesh2509/Movie/blob/main/client/public/Image/ListDetail.png?raw=true)
+
+
+**Shared List:**
+![Shared List](https://github.com/shesh2509/Movie/blob/main/client/public/Image/SharedList.png?raw=true)
+
+
